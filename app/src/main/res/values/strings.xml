@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BacolodCommutersMap</string>
+    <string name="btn_text1">GOTO MAP</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
